@@ -19,7 +19,10 @@ Harris.ipynb
 ```
 
 ### Notebooks
-- **CV_Mini Project.ipynb**
+- **SIFT.ipynb**: Implementation of the Scale-Invariant Feature Transform (SIFT) algorithm.
+- **Harris.ipynb**: Implementation of the Harris Corner Detection algorithm.
+- **RANSAC.ipynb**: Implementation of the RANSAC for image stitching
+
   
 ### Images
 - **image1.jpg,image2.jpg**: Image for SIFT algorithm.
